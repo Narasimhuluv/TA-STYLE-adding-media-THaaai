@@ -233,6 +233,10 @@ header{
     /* height: 350px; */
     margin-bottom: 40px;
     background-color: white;
+
+}
+.ourblog .heading_squaredots{
+    padding-top: 30px;
 }
 .ourblog{
     margin: 50px 0px;
